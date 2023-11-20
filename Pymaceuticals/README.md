@@ -1,2 +1,0 @@
-# Pymaceuticals
-Challenge 5
